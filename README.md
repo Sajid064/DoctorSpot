@@ -22,6 +22,14 @@
 </p>
 <br>
 
+### *Login and Signup Page:*
+
+<p>
+<img src="https://github.com/Sajid064/DoctorSpot/blob/main/Screenshots/login.png" width = "405" height = "240"/>
+&nbsp;&nbsp;&nbsp;<img src="https://github.com/Sajid064/DoctorSpot/blob/main/Screenshots/signup.png" width = "405" height = "240"/>  
+</p>
+<br>
+
 ### *Slider and Carousel:*
 
 <p>
@@ -47,6 +55,30 @@
 </p>
 <br>
 
+### *Doctor's Appointment Scheduling:*
+
+<p>
+<img src="https://github.com/Sajid064/DoctorSpot/blob/main/Screenshots/appointment.png" width = "405" height = "240"/>    
+&nbsp;&nbsp;&nbsp;<img src="https://github.com/Sajid064/DoctorSpot/blob/main/Screenshots/confirmation.png" width = "405" height = "240"/>
+</p>
+<br>
+
+### *User Dashboard and Doctor's Review Page::*
+
+<p>
+<img src="https://github.com/Sajid064/DoctorSpot/blob/main/Screenshots/user_dashboard.png" width = "405" height = "240"/>
+&nbsp;&nbsp;&nbsp;<img src="https://github.com/Sajid064/DoctorSpot/blob/main/Screenshots/review.png" width = "405" height = "240"/>
+</p>
+<br>
+
+### *Chatbot Predico (Disease Predictor):*
+
+<p>
+<img src="https://github.com/Sajid064/DoctorSpot/blob/main/Screenshots/blogs2.png" width = "405" height = "240"/>
+&nbsp;&nbsp;&nbsp;<img src="https://github.com/Sajid064/DoctorSpot/blob/main/Screenshots/predico.png" width = "405" height = "240"/>
+</p>
+<br>
+
 ### *Health Blogs:*
 
 <p>
@@ -65,34 +97,11 @@
 
 
 
-### *Doctor's Appointment Scheduling:*
 
-<p>
-<img src="https://github.com/Sajid064/DoctorSpot/blob/main/Screenshots/appointment.png" width = "405" height = "240"/>    
-&nbsp;&nbsp;&nbsp;<img src="https://github.com/Sajid064/DoctorSpot/blob/main/Screenshots/confirmation.png" width = "405" height = "240"/>
-</p>
-<br>
 
-### *Login and Signup Page:*
 
-<p>
-<img src="https://github.com/Sajid064/DoctorSpot/blob/main/Screenshots/login.png" width = "405" height = "240"/>
-&nbsp;&nbsp;&nbsp;<img src="https://github.com/Sajid064/DoctorSpot/blob/main/Screenshots/signup.png" width = "405" height = "240"/>  
-</p>
 
-### *User Dashboard and Doctor's Review Page::*
 
-<p>
-<img src="https://github.com/Sajid064/DoctorSpot/blob/main/Screenshots/user_dashboard.png" width = "405" height = "240"/>
-&nbsp;&nbsp;&nbsp;<img src="https://github.com/Sajid064/DoctorSpot/blob/main/Screenshots/review.png" width = "405" height = "240"/>
-</p>
-<br>
 
-### *Chatbot Predico (Disease Predictor):*
 
-<p>
-<img src="https://github.com/Sajid064/DoctorSpot/blob/main/Screenshots/blogs2.png" width = "405" height = "240"/>
-&nbsp;&nbsp;&nbsp;<img src="https://github.com/Sajid064/DoctorSpot/blob/main/Screenshots/predico.png" width = "405" height = "240"/>
-</p>
-<br>
 
